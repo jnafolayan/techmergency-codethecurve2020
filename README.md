@@ -19,10 +19,10 @@ Our idea is to create a software, an internet-based platform that connects donor
 
 Our solution will be built using React for the front-end, and consume APIs powered by Node.js. The entirety of the service will be deployed on DigitalOcean droplets.
 
--Frontend: React
--Backend: Node.js
--Database: MongoDB
--Deployment: Ubuntu environ hosted in DigitalOcean droplets
+- Frontend: React
+- Backend: Node.js
+- Database: MongoDB
+- Deployment: Ubuntu environ hosted in DigitalOcean droplets
 
 ## Miscellanous
 
