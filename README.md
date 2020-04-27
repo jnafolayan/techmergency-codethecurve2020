@@ -24,6 +24,13 @@ Our solution will be built using React for the front-end, and consume APIs power
 - Database: MongoDB
 - Deployment: Ubuntu environ hosted in DigitalOcean droplets
 
+## Prototype
+
+Click [this link](https://www.figma.com/proto/TIR6cad01j7oFTHvomGjXb/Techmergency?node-id=1%3A2&viewport=173%2C633%2C1&scaling=min-zoom) to browse a high-fidelity prototype of our product.
+
+![Technical Architecture](/Technical_Architecture.jpeg)
+![Solution Diagram](/Solution_Diagramm.jpeg)
+
 ## Miscellanous
 
 As part of our implementation, Techmergency will design an algorithm that will distribute resources to frontliners based on some defined criteria. We have designed a first version of this algorithm to validate our theories.
